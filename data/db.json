@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Meet Mali - home of manuscripts, music and magic",
+      "body": "Timbuktu is a city fabled to exist at the edge of the world, where the southern stretches of the Sahara desert end and a world of rich scholarly tradition, architectural wonder and abundant artistic creativity begins. In reality, it’s located in the West African country of Mali, a place filled to the brim with the kind of unmatched cultural richness that comes from traditions and influences from across the Sahara and Sahel melding together in harmony for centuries – all of which “Mali Magic” on Google Arts & Culture will share with you today.\n\nThough popularly known as the historic home of Mansa Musa (the richest man in the world), the true magic of Mali doesn’t stem from these fractured fables so much as from the pillars that define its culture — its manuscripts, music, monuments and modern art — and their unbelievable resilience to human and environmental threats, thanks to the people’s quest to preserve their heritage.",
+      "author": "yoshi",
+      "id": 1
+    },
+    {
+      "title": "Google cheats restaurants out of delivery fees, says class-action lawsuit",
+      "body": "The lawsuit was filed earlier this week by Left Field Holdings in San Francisco courts. Left Field Holdings is a franchisee of Lime Fresh Mexican restaurants, one of the restaurants allegedly targeted by Google.\n\nThe lawsuit claims that Google creates unauthorized storefronts for restaurants to take delivery orders. Left Field claims that Google designs the sites to look like restaurants have approved them.\n\nThen, Google will take a percentage from delivery sites like Postmates, Doordash, or Grubhub for orders placed on these faulty storefronts, says the lawsuit. Additionally, Google allegedly places a large “Order Online” button to lure customers into ordering from its fake storefronts.\n\n“It is appalling that Google would take advantage of an industry going through such a challenging time and, through these deceptive and illegal practices, take a portion of their hard-earned profits for itself,” says Left Field attorney Jason Zweig in a statement to Reuters.",
+      "author": "yoshi",
+      "id": 2
+    }
+  ]
+}
